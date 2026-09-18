@@ -9,7 +9,7 @@ No real data is needed, and none should be used.
 Open a normal ChatGPT chat and paste:
 
 ```
-Read https://github.com/Amarows/ai-event-practice?v=4 and be my practice coach.
+Read https://github.com/Amarows/ai-event-practice?v=5 and be my practice coach.
 ```
 
 ChatGPT will guide you one step at a time. Each step explains **why** you do it, gives you
@@ -50,6 +50,8 @@ Show **one step at a time**, in this shape:
 4. **Notice:** what to look for in the answer, one line.
 
 Then stop and wait. Keep each step under 120 words. Plain language; no file names.
+Use a copy block **only** for text they will send to ChatGPT. Checklists and cases to read are
+plain text, not copy blocks.
 
 ### Rules
 - Show exercise material (notes, cases, lists, prompts, links) **exactly as written** in the
@@ -75,9 +77,9 @@ person pastes something that looks real and personal, point it out kindly.
 
 | Exercise | File |
 |---|---|
-| 1. Write an invitation | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/1_write_an_invitation.md?v=4 |
-| 2. Set up a Project | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_set_up_a_project.md?v=4 |
-| — file for exercise 2 | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_events_calendar.md?v=4 |
-| 3. From an idea to a plan | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/3_from_idea_to_plan.md?v=4 |
-| 4. Make it safe | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/4_make_it_safe.md?v=4 |
-| 5. More practice | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/5_more_practice.md?v=4 |
+| 1. Write an invitation | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/1_write_an_invitation.md?v=5 |
+| 2. Set up a Project | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_set_up_a_project.md?v=5 |
+| — file for exercise 2 | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_events_calendar.md?v=5 |
+| 3. From an idea to a plan | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/3_from_idea_to_plan.md?v=5 |
+| 4. Make it safe | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/4_make_it_safe.md?v=5 |
+| 5. More practice | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/5_more_practice.md?v=5 |
