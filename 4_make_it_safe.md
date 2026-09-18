@@ -27,11 +27,6 @@ question and type your version:
 > Sponsor Northbank Learning (contact Soren Pike, soren.pike@example.com) wants to cut their fee
 > from CHF 12,000 to CHF 8,000 this year. Draft a reply.
 
-## Step 3 — One more
-
-> Our member Marco Rossi, born 4 May 1988, registered twice for the autumn event and paid twice
-> with his card ending 4421. Draft an apology and explain the refund.
-
 All names and details are invented.
 
 ---
@@ -40,13 +35,12 @@ All names and details are invented.
 
 - Step 1: show both the "Instead of" text (with the name and email) and the safe version, so the
   difference is visible.
-- Step 2 and 3: show the case **exactly as written, with all its personal details** — they are
+- Step 2: show the case **exactly as written, with all its personal details** — they are
   invented, so showing them is safe. Do not anonymise it yourself; rewriting it is the exercise.
 - When their version is safe, answer it normally, then give feedback in the 👉 line.
-- **Never show or hint at a safe version of Step 2 or 3 before the participant has written their
+- **Never show or hint at a safe version of Step 2 before the participant has written their
   own.** Show the original case, ask them to rewrite it, and wait.
 - Step 2 — what should be gone: the sponsor's name, the contact person, the email, the exact
   amounts (what someone negotiated).
-- Step 3 — what should be gone: the member's name, birth date, card digits.
 - If something identifying is left, point it out kindly and let them fix it.
 - Always add: their organisation's rules decide what may go in. When in doubt, ask before pasting.
