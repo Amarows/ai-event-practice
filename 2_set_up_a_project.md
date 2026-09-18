@@ -1,16 +1,28 @@
 # 2 — Set up a Project
 
-So you don't start from zero every time. About 10 minutes.
+So you don't start from zero every time. About 10 minutes. 5 steps.
 
-A ChatGPT **Project** keeps instructions and files in one place. Every chat inside it starts
-with them — so a recurring task takes one line instead of a page, and colleagues can use the
-same setup.
+**The idea:** a good prompt disappears when you open a new chat. A ChatGPT **Project** keeps
+it: instructions and files stay in one place, every chat inside the Project starts with them,
+and colleagues can use the same setup.
 
-## Step 1 — Create the Project
+| Part of a good request | Where it goes in a Project |
+|---|---|
+| Format and limits — what never changes | **Instructions** |
+| Context — facts and reference material | **Files** |
+| Task — what you want today | **A new chat in the Project**, one line |
 
-In the ChatGPT sidebar, create a new Project called `Event invitations`.
+## Step 1 of 5 — Create the Project
 
-## Step 2 — Add the instructions
+**Why:** a Project is a folder for chats that share the same instructions and files.
+
+In the ChatGPT sidebar, click **New project** and call it `Event invitations`.
+
+**Notice:** the Project has its own space for instructions and files.
+
+## Step 2 of 5 — Add the instructions
+
+**Why:** these are the parts of your Exercise 1 prompt that never change — format and limits.
 
 Open the Project's instructions and paste:
 
@@ -23,13 +35,20 @@ If a fact is missing, say so — do not guess.
 Never mention speakers who are not confirmed.
 ```
 
-## Step 3 — Add the file
+**Notice:** no event facts here — those go into a file.
 
-Save the events calendar as a file and add it to the Project:
-https://github.com/Amarows/ai-event-practice/blob/HEAD/2_events_calendar.md
-(open it, click "Download raw file", then upload it to the Project).
+## Step 3 of 5 — Add the facts as a file
 
-## Step 4 — Use it
+**Why:** facts live in a file, so you update one file instead of retyping them in every chat.
+
+Open https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_events_calendar.md , save it (Ctrl+S) and add it to the Project's files.
+
+**Notice:** the file has a "last updated" date and an owner. Shared facts go stale — someone has
+to keep them current.
+
+## Step 4 of 5 — Use it
+
+**Why:** now a one-line request is enough — the Project supplies the rest.
 
 In a **new chat inside the Project**, type:
 
@@ -43,23 +62,29 @@ Then another new chat in the Project:
 Invitation for the winter networking evening.
 ```
 
-## Step 5 — Compare
+**Notice:** same format, different facts, nothing retyped.
 
-Same format, different facts, nothing retyped. Check both against the calendar.
+## Step 5 of 5 — Compare
+
+**Why:** a Project makes results more consistent, not identical — it is still prediction.
+
+Paste one of the two drafts here and check it against the calendar.
+
+**Notice:** did it take the right facts for the right event? Did it follow the format rules?
 
 ---
 
 ## Coach notes
 
-- Steps 1–4 happen in the Project, outside this chat. Ask them to come back after Step 4 and
-  paste one of the drafts here.
-- The idea to explain: the parts of a good request move into the Project —
-  **format and limits → instructions**, **facts → files**, **today's task → one line in a chat**.
-- Check points for the winter evening: Thursday 3 December 2026, 18:30–21:00, Brasserie du Lac,
-  Geneva, drinks and networking (no talk), members free, one guest each at CHF 25, register by
-  Monday 30 November, 12:00, example.com/winter.
-- More consistent is not identical: two runs will differ in wording. It is still prediction.
-- A shared Project needs an owner and dated files — an outdated file gives confident wrong
-  answers. The calendar has "last updated" and "owner" for this reason.
-- If they can't create Projects, they can paste the instructions and the calendar into a normal
-  chat — it works once, but won't be kept for next time. That's the difference.
+- Steps 1–4 happen in the Project, outside this chat. After Step 4, ask them to come back and
+  paste one draft.
+- Winter evening facts: Thursday 3 December 2026, 18:30–21:00, Brasserie du Lac, Geneva, drinks
+  and networking (no talk), members free, one guest each at CHF 25, register by Monday
+  30 November, 12:00, example.com/winter.
+- If they can't create Projects: paste the instructions and the calendar into a normal chat —
+  it works once, but is gone next time. That is exactly the difference a Project makes.
+- Sharing: a Project can be shared with colleagues — they get the same instructions and files.
+  Share information and know-how; keep your own progress and priorities in your own chats.
+- What they learned: prompt parts move into the Project — rules → instructions, facts → files,
+  today's task → one line.
+- Next: **3 — From an idea to a plan**: using ChatGPT to question an idea and research it.

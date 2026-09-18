@@ -1,70 +1,94 @@
 # 1 — Write an invitation
 
-From one line to a useful draft. About 15 minutes.
+From one line to a useful draft. About 15 minutes. 5 steps.
 
-## The event notes (fictional)
+**The idea:** ChatGPT predicts plausible text. With nothing to go on, it fills the gaps with
+typical guesses. With the right facts and limits, it becomes a fast, reliable first-draft writer.
 
-> Autumn member event, Thu 22 Oct 2026, 18:00–20:00, Atelier Linden, Zürich.
-> Topic: better decisions from information. Free for members, 60 places.
-> Register by Tue 20 Oct, 17:00. Link: example.com/autumn.
-> Guest speaker invited, NOT confirmed — don't mention.
+## Step 1 of 5 — Ask with no context
 
-## Step 1 — Ask without context
+**Why:** to see what ChatGPT does when it knows nothing about your event. This chat already
+knows the practice material, so this step must happen in a **new chat**.
 
-Open a **new chat** (a new tab is easiest) and type only:
+**▶ Open in a new chat:** https://chatgpt.com/?q=Write%20an%20invitation%20for%20our%20autumn%20member%20event.
+(or open a new chat and type: `Write an invitation for our autumn member event.`)
 
-```
-Write an invitation for our autumn member event.
-```
+**Notice:** did it invent a date, a place, a speaker? Or ask you for details? Come back and tell me.
 
-Come back and say what it invented — a date? a place? a speaker?
+## Step 2 of 5 — Brief it
 
-## Step 2 — Brief it
-
-Show the event notes. Then type in this chat:
+**Why:** a good request has five parts — **context** (the facts), **task** (what you want),
+**format** (length, structure, tone), **limits** (what it must not do) and, optionally, an
+**example**. This prompt has them all, with the event notes included.
 
 ```
-Write an invitation email for our members, using the event notes above.
+Here are my notes for an event:
+
+Autumn member event, Thu 22 Oct 2026, 18:00–20:00, Atelier Linden, Zürich.
+Topic: better decisions from information. Free for members, 60 places.
+Register by Tue 20 Oct, 17:00. Link: example.com/autumn.
+Guest speaker invited, NOT confirmed — don't mention.
+
+Write an invitation email for our members, using only these notes.
 Subject line plus max 110 words, warm but professional.
-Use only the facts in the notes. Don't mention the guest speaker.
+Don't mention the guest speaker.
 ```
 
-## Step 3 — Improve it
+**Notice:** is every fact from the notes? Is the speaker left out? Anything added that isn't in
+the notes?
 
-Pick one and type it:
+## Step 3 of 5 — Improve it
 
-- `Shorter, and put the registration deadline in the first sentence.`
-- `Give me two alternative subject lines.`
-- `Rewrite it for someone who has never been to one of our events.`
+**Why:** the first answer starts a conversation. You don't start over — each message builds on
+everything already in the chat (the notes, the draft, your wishes).
 
-## Step 4 — Let it check itself
+Pick one:
 
 ```
-Check your last draft against the event notes. List any fact that is missing,
-changed or not in the notes.
+Shorter, and put the registration deadline in the first sentence.
+```
+```
+Give me two alternative subject lines.
+```
+```
+Rewrite it for someone who has never been to one of our events.
 ```
 
-## Step 5 — Your own check
+**Notice:** did it keep all the facts while changing what you asked?
 
-Check the final draft yourself: date, time, place, deadline, link, no speaker, nothing promised
-that isn't in the notes.
+## Step 4 of 5 — Let it check itself
+
+**Why:** ChatGPT can review its own work if you give it something to check against. Asking
+"is this good?" gets "yes". Asking it to compare with the notes finds real problems.
+
+```
+Check your last draft against my event notes. List any fact that is missing, changed or
+not in the notes.
+```
+
+**Notice:** did it find anything? It can still miss its own mistake — its check helps yours,
+it doesn't replace it.
+
+## Step 5 of 5 — Your own check
+
+**Why:** you send it, so you are the author. Check it as if you had typed every word.
+
+Check the final draft yourself: date · time · place · deadline · link · no speaker · nothing
+promised that isn't in the notes (drinks, certificates, a recording…).
+
+**Notice:** what did you have to fix? Tell me.
 
 ---
 
 ## Coach notes
 
-- Step 1 must happen in a **new chat** — this chat already contains the notes, so the one-line
-  request would work here. The point: without context, AI fills gaps with plausible guesses.
-  If the new chat asked for details instead of inventing them, that's good too — it knew what
-  was missing.
-- Before Step 2, show all four lines of the event notes exactly as written.
-- Step 2: after answering, use the 👉 line to name the five parts of a good request they just used — **context** (the notes),
-  **task** (invitation), **format** (subject line, 110 words, tone), **limits** (only these
-  facts), and optionally an **example**.
-- Step 3: the point is that they didn't start over — each message builds on what's already in
-  the chat.
-- Step 4: self-checking helps but is not proof. It can miss its own mistake.
-- Step 5 checklist: Thursday 22 October 2026 · 18:00–20:00 · Atelier Linden, Zürich · register by
-  Tuesday 20 October, 17:00 · example.com/autumn · no speaker · no drinks, certificates or
-  recordings promised. Ask them what they had to fix. Don't check it for them.
-- Summary: AI predicts plausible text. Give it the facts and limits, then check.
+- Step 1: if the new chat invented details, point out it filled gaps with plausible guesses. If
+  it asked for details instead, that's good too — it knew what was missing.
+- Step 2: in the 👉 line, name the five parts they just used.
+- Step 5 checklist: Thursday 22 October 2026 · 18:00–20:00 · Atelier Linden, Zürich · register
+  by Tuesday 20 October, 17:00 · example.com/autumn · no speaker · no drinks, certificates or
+  recordings promised. Ask what they had to fix; don't check it for them.
+- What they learned: AI predicts plausible text — give it facts and limits, keep the
+  conversation going, then check it yourself.
+- Next: **2 — Set up a Project**: how to keep these instructions and facts so next time the
+  same request takes one line.
