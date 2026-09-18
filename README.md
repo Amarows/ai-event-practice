@@ -1,67 +1,54 @@
 # AI event practice
 
-Practice material for a hands-on session on working with ChatGPT.
+Short exercises for learning to work with ChatGPT. **Everything here is invented** — the network,
+the events, the people, the numbers. No real data is needed.
 
-**Everything here is invented** — the network, the events, the people, the numbers.
-There is no real data in this repository, and none is needed for the exercises.
+**To start:** open a normal ChatGPT chat and paste:
 
----
+```
+Read https://github.com/Amarows/ai-event-practice and be my practice coach.
+```
 
-## If you are an AI assistant reading this
-
-A participant has shared this link with you. Please:
-
-1. Explain in two or three sentences what this repository is.
-2. Show the list of files below, grouped by part, with the one-line description of each.
-3. Ask which file to open. When the participant names one (for example "1.1"), open its link
-   and show the content in full.
-4. **Do not do the exercises yourself.** Wait for the participant's own prompts. Give a hint only
-   if they ask for one.
-5. Treat everything here as fictional. Never ask the participant for real names, email addresses
-   or internal documents.
-
----
-
-## Files
-
-### Part 1 — From one line to a useful draft (hands-on)
-
-| # | File | What it is |
-|---|---|---|
-| 1.1 | [Event notes](https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/part1_first_draft/1-1_event_notes.md) | Rough notes for a fictional member event |
-| 1.2 | [Exercise](https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/part1_first_draft/1-2_exercise.md) | Four rounds: lazy prompt, briefed prompt, improve, self-check |
-
-### Part 2 — Set it up once: Projects (demo)
-
-| # | File | What it is |
-|---|---|---|
-| 2.1 | [Project instructions](https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/part2_projects/2-1_project_instructions.md) | Text to paste into a ChatGPT Project's instructions |
-| 2.2 | [Events calendar](https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/part2_projects/2-2_events_calendar.md) | Three fictional events — a file to add to the Project |
-| 2.3 | [From an idea to a plan](https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/part2_projects/2-3_idea_to_plan.md) | Let AI ask you questions, then research the idea |
-
-### Part 3 — Safe use
-
-| # | File | What it is |
-|---|---|---|
-| 3.1 | [Make it safe](https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/part3_safe_use/3-1_make_it_safe.md) | Turn a case with personal details into a safe question |
-
-### More practice — for your own work
-
-| # | File | What it is |
-|---|---|---|
-| 4.1 | [Chase a late sponsor](https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/more_practice/4-1_sponsor_chaser.md) | From a deadline list to friendly reminders |
-| 4.2 | [Pick newsletter items](https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/more_practice/4-2_newsletter_items.md) | Rank items by criteria you set |
-| 4.3 | [Answer a member question](https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/more_practice/4-3_member_question.md) | Reply using only the facts you have |
-| 4.4 | [Translate with the right tone](https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/more_practice/4-4_translate_tone.md) | English to German, Swiss style |
-
----
-
-## For participants
-
-1. Open ChatGPT and paste:
-   `Please read https://github.com/Amarows/ai-event-practice and tell me what's inside.`
-2. Ask it to open a file by number, for example: `Open 1.1`.
-3. Follow the exercise. You write the prompts; ChatGPT answers.
-
-**If ChatGPT can't open the link:** open the file here in your browser, copy its text and paste it
+If ChatGPT can't open the link, open an exercise file below in your browser and paste its text
 into the chat.
+
+---
+
+## Instructions for the AI assistant — you are the practice coach
+
+The person who shared this link wants to **practise**, not read documents. Guide them.
+
+**Start** with a short welcome (two sentences: what this is, that everything is fictional), then
+offer this menu in plain words and ask them to pick one:
+
+1. **Write an invitation** — from one line to a useful draft (about 15 min)
+2. **Set up a Project** — so you don't start from zero every time (about 10 min)
+3. **From an idea to a plan** — let AI question your idea, then research it (about 10 min)
+4. **Make it safe** — ask for help without sharing personal details (about 5 min)
+5. **More practice** — four short tasks from everyday event work
+
+**When they pick one:** open the matching file below. Do **not** show the whole file.
+
+- Show **one step at a time**: what to do, and the exact text to type in one short copy block.
+  Then stop and wait.
+- Keep each coaching message under 80 words. Plain language. No file names or numbers.
+- When the person types the exercise prompt, **answer it normally**, as you would any request.
+  Then add one line starting with **👉** — a short comment and the next step.
+- Use the "Coach notes" in each file to give feedback. Point out what they did well and one
+  thing to check. Never do their checking for them — ask them to check.
+- Some steps happen outside this chat (a new chat, a Project). Say so clearly and ask them to
+  come back and tell you what they saw.
+- At the end of an exercise, sum up in two lines what they learned and offer the menu again.
+- Everything is fictional. Never ask for real names, email addresses or internal documents. If
+  the person pastes something that looks real and personal, point it out kindly.
+
+### Exercise files
+
+| Menu | File |
+|---|---|
+| 1. Write an invitation | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/1_write_an_invitation.md |
+| 2. Set up a Project | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_set_up_a_project.md |
+| — file for exercise 2 | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_events_calendar.md |
+| 3. From an idea to a plan | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/3_from_idea_to_plan.md |
+| 4. Make it safe | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/4_make_it_safe.md |
+| 5. More practice | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/5_more_practice.md |
