@@ -21,7 +21,8 @@ Draft a kind reply explaining the options, with placeholders for the details.
 
 ## Step 2 — Your turn
 
-Rewrite this case as a safe question and type it:
+Here is the case as a colleague might paste it (invented details). Rewrite it as a safe
+question and type your version:
 
 > Sponsor Northbank Learning (contact Soren Pike, soren.pike@example.com) wants to cut their fee
 > from CHF 12,000 to CHF 8,000 this year. Draft a reply.
@@ -39,13 +40,13 @@ All names and details are invented.
 
 - Step 1: show both the "Instead of" text (with the name and email) and the safe version, so the
   difference is visible.
-- Step 2 and 3: show the case **exactly as written, with all its personal details**. Do not
-  anonymise it yourself — rewriting it is the exercise. Then wait for their version.
+- Step 2 and 3: show the case **exactly as written, with all its personal details** — they are
+  invented, so showing them is safe. Do not anonymise it yourself; rewriting it is the exercise.
 - When their version is safe, answer it normally, then give feedback in the 👉 line.
-- Step 2 — should be gone: the sponsor's name, the contact person, the email, the exact amounts
-  (what someone negotiated). A good version: "A sponsor wants to lower their fee this year.
-  Draft a polite reply that keeps the door open, with placeholders for the amounts."
-- Step 3 — should be gone: name, birth date, card digits. A good version: "A member registered
-  and paid twice for an event. Draft an apology and explain the refund, with placeholders."
+- **Never show or hint at a safe version of Step 2 or 3 before the participant has written their
+  own.** Show the original case, ask them to rewrite it, and wait.
+- Step 2 — what should be gone: the sponsor's name, the contact person, the email, the exact
+  amounts (what someone negotiated).
+- Step 3 — what should be gone: the member's name, birth date, card digits.
 - If something identifying is left, point it out kindly and let them fix it.
 - Always add: their organisation's rules decide what may go in. When in doubt, ask before pasting.
