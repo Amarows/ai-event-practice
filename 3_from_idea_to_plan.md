@@ -36,7 +36,7 @@ Answer its clarifying question if it asks one, then leave it running (5–30 min
 **Why:** you combine your answers from Step 1 with the evidence from Step 2 — AI brought
 questions, breadth and sources; you bring the judgement.
 
-Come back to this chat and send:
+Back in your first chat, send:
 
 ```
 Here is the research: [paste the summary]
@@ -45,6 +45,8 @@ and one alternative worth testing.
 ```
 
 **Notice:** would you defend this plan to a colleague? What would you change?
+
+**Next:** 4 — Make it safe: get help without sharing personal details.
 
 ---
 

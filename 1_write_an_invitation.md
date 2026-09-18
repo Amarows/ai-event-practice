@@ -13,7 +13,7 @@ knows the practice material, so this step must happen in a **new chat**.
 **▶ Open in a new chat:** https://chatgpt.com/?q=Write%20an%20invitation%20for%20our%20autumn%20member%20event.
 (or open a new chat and type: `Write an invitation for our autumn member event.`)
 
-**Notice:** did it invent a date, a place, a speaker? Or ask you for details? Come back and tell me.
+**Notice:** did it invent a date, a place, a speaker? Or did it ask you for details?
 
 ## Step 2 of 5 — Brief it
 
@@ -76,7 +76,9 @@ it doesn't replace it.
 Check the final draft yourself: date · time · place · deadline · link · no speaker · nothing
 promised that isn't in the notes (drinks, certificates, a recording…).
 
-**Notice:** what did you have to fix? Tell me.
+**Notice:** what did you have to fix?
+
+**Next:** 2 — Set up a Project: keep these instructions and facts, so next time the same request takes one line.
 
 ---
 
@@ -84,7 +86,6 @@ promised that isn't in the notes (drinks, certificates, a recording…).
 
 - Step 1: if the new chat invented details, point out it filled gaps with plausible guesses. If
   it asked for details instead, that's good too — it knew what was missing.
-- Step 2: in the 👉 line, name the five parts they just used.
 - Step 5 checklist: Thursday 22 October 2026 · 18:00–20:00 · Atelier Linden, Zürich · register
   by Tuesday 20 October, 17:00 · example.com/autumn · no speaker · no drinks, certificates or
   recordings promised. Ask what they had to fix; don't check it for them.

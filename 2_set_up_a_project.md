@@ -68,16 +68,16 @@ Invitation for the winter networking evening.
 
 **Why:** a Project makes results more consistent, not identical — it is still prediction.
 
-Paste one of the two drafts here and check it against the calendar.
+Check both drafts against the calendar.
 
 **Notice:** did it take the right facts for the right event? Did it follow the format rules?
+
+**Next:** 3 — From an idea to a plan: use ChatGPT to question an idea and research it.
 
 ---
 
 ## Coach notes
 
-- Steps 1–4 happen in the Project, outside this chat. After Step 4, ask them to come back and
-  paste one draft.
 - Winter evening facts: Thursday 3 December 2026, 18:30–21:00, Brasserie du Lac, Geneva, drinks
   and networking (no talk), members free, one guest each at CHF 25, register by Monday
   30 November, 12:00, example.com/winter.

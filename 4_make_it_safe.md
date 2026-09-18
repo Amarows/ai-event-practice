@@ -36,6 +36,8 @@ Draft a kind reply explaining the options, with placeholders for the details.
 
 All names and details are invented.
 
+**Next:** 5 — More practice: four short tasks from everyday event work.
+
 ---
 
 ## Coach notes
@@ -47,7 +49,7 @@ All names and details are invented.
   have written their own.**
 - What should be gone: the sponsor's name, the contact person, the email, the exact amounts
   (what someone negotiated). If something identifying is left, point it out kindly and let them
-  fix it. When their version is safe, answer it normally, then give feedback in the 👉 line.
+  fix it. When their version is safe, answer it normally.
 - Always add: their organisation's rules decide what may go in. When in doubt, ask before pasting.
 - What they learned: ask about the type of case; add the specifics yourself.
 - Next: **5 — More practice**: four short tasks from everyday event work.

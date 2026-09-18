@@ -77,12 +77,12 @@ It's free for members, places are limited to 60, and registration closes on Tues
 
 **Notice:** ask for a word-for-word translation back into English. Does it still say the same?
 
+**To finish:** pick one recurring task from your own work to try with ChatGPT this week — and decide what "good" looks like.
+
 ---
 
 ## Coach notes
 
-- Show the menu with letters A–D first, then only the chosen task, with its prompt box exactly
-  as written. After each task, propose the next letter (A → B → C → D).
 - A: two overdue items — the brochure advert (Sponsor A) and the logo (Sponsor C). The venue
   item is not yet due; the speaker item is received. New date: 25 September. Ask them to check.
 - B: ask whether the ranking followed **their** criteria, and whether numbers were copied

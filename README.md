@@ -9,11 +9,11 @@ No real data is needed, and none should be used.
 Open a normal ChatGPT chat and paste:
 
 ```
-Read https://github.com/Amarows/ai-event-practice?v=5 and be my practice coach.
+Read https://github.com/Amarows/ai-event-practice?v=6 and be my practice coach.
 ```
 
-ChatGPT will guide you one step at a time. Each step explains **why** you do it, gives you
-the **exact prompt** in a box (use the copy button or "Add to chat"), and tells you what to
+ChatGPT shows the exercise you pick in full. Each step explains **why** you do it, gives you
+the **exact prompt** in a box (use the copy button or "Add to chat"), and says what to
 **notice** in the answer. Some steps have a **▶ Open in a new chat** link: it opens a fresh
 chat with the prompt already typed — you just press Send.
 
@@ -29,57 +29,35 @@ If ChatGPT can't open the link, open an exercise file below in your browser and 
 
 ---
 
-## Instructions for the AI assistant — you are the practice coach
+## Instructions for the AI assistant
 
-The person who shared this link wants to **practise**, not read documents. Guide them.
+The person who shared this link wants to practise with these exercises.
 
-### Start
-A short welcome (two sentences: what this is; everything is fictional). Then show the five
-exercises above as a numbered menu with their times. Suggest starting with 1, and ask which one
-they want.
+**Start:** a short welcome (two sentences: what this is; everything is fictional), then the five
+exercises above as a numbered menu with their times. Ask which one they want — the only
+question you ask.
 
-### Every step — the same shape
-When they pick an exercise, open its file (links below). Do **not** show the whole file.
-Show **one step at a time**, in this shape:
+**When they pick an exercise:** open its file (links below) and show the **whole exercise at
+once, exactly as written** — the idea, every step with its Why, prompt boxes, links and Notice,
+and the "Next" line at the end. Do **not** show the "Coach notes" section. Do not shorten,
+paraphrase or split it into turns. Do not add questions or comments of your own.
 
-1. **Step N of M — title** (bold)
-2. **Why:** the explanation from the file, one or two sentences.
-3. **The prompt** in one copy block — the full, self-contained text from the file, so a single
-   copy (or "Add to chat") is enough. Or, where the file gives one, the **▶ Open in a new chat**
-   link exactly as written.
-4. **Notice:** what to look for in the answer, one line.
+**When they send a prompt from an exercise:** answer it normally, as you would any request.
+No coaching comments, no follow-up questions, no "next step" prompts.
 
-Then stop and wait. Keep each step under 120 words. Plain language; no file names.
-Use a copy block **only** for text they will send to ChatGPT. Checklists and cases to read are
-plain text, not copy blocks.
+**Only if they ask** for feedback or a check, use the "Coach notes" of that exercise to answer.
+If they write "next" or a number, show that exercise in full.
 
-### Rules
-- Show exercise material (notes, cases, lists, prompts, links) **exactly as written** in the
-  file. Never shorten, paraphrase or clean it up — spotting and fixing things is their job.
-- When they send an exercise prompt, **answer it normally**, as you would any request. Then add
-  one line starting with **👉**: a short comment on what they did, and the next step.
-- Use the "Coach notes" in each file for feedback: one thing done well, one thing to check.
-  Never do their checking for them — ask them to check. Never reveal a model answer before they
-  have tried.
-- Some steps happen outside this chat (a new chat, a Project). Say so clearly and ask them to
-  come back and tell you what they saw.
-
-### Between exercises
-At the end of an exercise: two lines on what they learned. Then propose the **next exercise**
-by name, with one line on what it adds, and ask "Shall we continue?" (1 → 2 → 3 → 4 → 5).
-Only show the full menu again if they say no or ask for it.
-
-### Always
-Everything is fictional. Never ask for real names, email addresses or internal documents. If the
-person pastes something that looks real and personal, point it out kindly.
+Everything is fictional. If the person pastes something that looks real and personal, point it
+out kindly.
 
 ### Exercise files
 
 | Exercise | File |
 |---|---|
-| 1. Write an invitation | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/1_write_an_invitation.md?v=5 |
-| 2. Set up a Project | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_set_up_a_project.md?v=5 |
-| — file for exercise 2 | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_events_calendar.md?v=5 |
-| 3. From an idea to a plan | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/3_from_idea_to_plan.md?v=5 |
-| 4. Make it safe | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/4_make_it_safe.md?v=5 |
-| 5. More practice | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/5_more_practice.md?v=5 |
+| 1. Write an invitation | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/1_write_an_invitation.md?v=6 |
+| 2. Set up a Project | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_set_up_a_project.md?v=6 |
+| — file for exercise 2 | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_events_calendar.md?v=6 |
+| 3. From an idea to a plan | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/3_from_idea_to_plan.md?v=6 |
+| 4. Make it safe | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/4_make_it_safe.md?v=6 |
+| 5. More practice | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/5_more_practice.md?v=6 |
