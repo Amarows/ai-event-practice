@@ -37,7 +37,11 @@ All names and details are invented.
 
 ## Coach notes
 
-- Show Step 1, then wait for their rewrite in Step 2. Answer their safe question normally.
+- Step 1: show both the "Instead of" text (with the name and email) and the safe version, so the
+  difference is visible.
+- Step 2 and 3: show the case **exactly as written, with all its personal details**. Do not
+  anonymise it yourself — rewriting it is the exercise. Then wait for their version.
+- When their version is safe, answer it normally, then give feedback in the 👉 line.
 - Step 2 — should be gone: the sponsor's name, the contact person, the email, the exact amounts
   (what someone negotiated). A good version: "A sponsor wants to lower their fee this year.
   Draft a polite reply that keeps the door open, with placeholders for the amounts."

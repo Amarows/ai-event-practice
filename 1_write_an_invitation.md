@@ -57,7 +57,8 @@ that isn't in the notes.
   request would work here. The point: without context, AI fills gaps with plausible guesses.
   If the new chat asked for details instead of inventing them, that's good too — it knew what
   was missing.
-- Step 2: name the five parts of a good request they just used — **context** (the notes),
+- Before Step 2, show all four lines of the event notes exactly as written.
+- Step 2: after answering, use the 👉 line to name the five parts of a good request they just used — **context** (the notes),
   **task** (invitation), **format** (subject line, 110 words, tone), **limits** (only these
   facts), and optionally an **example**.
 - Step 3: the point is that they didn't start over — each message builds on what's already in

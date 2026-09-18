@@ -64,7 +64,8 @@ should check.
 
 ## Coach notes
 
-- Show the menu A–D first, then only the chosen task.
+- Show the menu with its letters (A–D) first, then only the chosen task, with its list or text
+  exactly as written.
 - A: correct answer is two overdue items — the brochure advert (Sponsor A) and the logo
   (Sponsor C). The venue item is not yet due; the speaker item is received. New date: 25 September.
   Ask them to check whether it picked exactly these.
@@ -74,5 +75,5 @@ should check.
   yet. Facts: guests allowed, one per member, CHF 25; register by Monday 30 November, 12:00.
   The calendar gives total places (80), **not** how many are left — a good reply says it doesn't
   know. That's the real test.
-- D: suggest asking for a word-for-word back-translation to check the meaning, and having a
+- D: this is Standard German written for Swiss readers, not Swiss German dialect. Suggest asking for a word-for-word back-translation to check the meaning, and having a
   native speaker read anything important.
