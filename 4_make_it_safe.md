@@ -36,7 +36,7 @@ Draft a kind reply explaining the options, with placeholders for the details.
 
 All names and details are invented.
 
-**Next:** 5 — More practice: four short tasks from everyday event work.
+**Next:** 5 — More practice: build slides from a script, and share a Project and its context.
 
 ---
 
@@ -52,4 +52,4 @@ All names and details are invented.
   fix it. When their version is safe, answer it normally.
 - Always add: their organisation's rules decide what may go in. When in doubt, ask before pasting.
 - What they learned: ask about the type of case; add the specifics yourself.
-- Next: **5 — More practice**: four short tasks from everyday event work.
+- Next: **5 — More practice**: build slides from a script, and share a Project and its context.

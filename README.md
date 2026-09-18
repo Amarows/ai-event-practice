@@ -9,7 +9,7 @@ No real data is needed, and none should be used.
 Open a normal ChatGPT chat and paste:
 
 ```
-Read https://github.com/Amarows/ai-event-practice?v=6 and be my practice coach.
+Read https://github.com/Amarows/ai-event-practice?v=7 and be my practice coach.
 ```
 
 ChatGPT shows the exercise you pick in full. Each step explains **why** you do it, gives you
@@ -23,9 +23,9 @@ If ChatGPT can't open the link, open an exercise file below in your browser and 
 |---|---|---|
 | 1 | Write an invitation — from one line to a useful draft | 15 min |
 | 2 | Set up a Project — so you don't start from zero every time | 10 min |
-| 3 | From an idea to a plan — let AI question your idea, then research it | 10 min |
+| 3 | From an idea to a plan — let AI grill your idea, then research it | 15 min |
 | 4 | Make it safe — ask for help without sharing personal details | 5 min |
-| 5 | More practice — four short tasks from everyday event work | 5 min each |
+| 5 | More practice — build slides from a script; share a Project and its context | 10 min each |
 
 ---
 
@@ -55,9 +55,9 @@ out kindly.
 
 | Exercise | File |
 |---|---|
-| 1. Write an invitation | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/1_write_an_invitation.md?v=6 |
-| 2. Set up a Project | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_set_up_a_project.md?v=6 |
-| — file for exercise 2 | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_events_calendar.md?v=6 |
-| 3. From an idea to a plan | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/3_from_idea_to_plan.md?v=6 |
-| 4. Make it safe | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/4_make_it_safe.md?v=6 |
-| 5. More practice | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/5_more_practice.md?v=6 |
+| 1. Write an invitation | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/1_write_an_invitation.md?v=7 |
+| 2. Set up a Project | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_set_up_a_project.md?v=7 |
+| — file for exercise 2 | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/2_events_calendar.md?v=7 |
+| 3. From an idea to a plan | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/3_from_idea_to_plan.md?v=7 |
+| 4. Make it safe | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/4_make_it_safe.md?v=7 |
+| 5. More practice | https://raw.githubusercontent.com/Amarows/ai-event-practice/HEAD/5_more_practice.md?v=7 |
