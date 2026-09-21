@@ -46,6 +46,11 @@ ChatGPT searches by meaning, reads sources and cites them.
 **▶ Open in a new chat:** https://chatgpt.com/?q=Research%20whether%20free%20or%20discounted%20entry%20actually%20raises%20attendance%20at%20professional%20and%20membership%20events.%20Give%20sources%2C%20say%20where%20the%20evidence%20is%20weak%2C%20and%20suggest%20other%20ways%20to%20reach%20the%20same%20goal.
 Before pressing Send, switch on **Web search** (the **+** menu next to the message box).
 
+
+```
+Research whether free or discounted entry actually raises attendance at professional and membership events. Give sources, say where the evidence is weak, and suggest other ways to reach the same goal
+```
+
 **Notice:** it will list sources. Sources are leads, not facts — open at least two yourself.
 
 ## Step 4 of 4 — Bring it together
