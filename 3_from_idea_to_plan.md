@@ -12,6 +12,7 @@ keywords. Questions first, research second: you only know what to research once 
 first makes you think the idea through — without anyone judging it.
 
 ```
+I work with CFA Society Switzerland on public events.
 I have an idea: offer candidate members free entry to the autumn event to raise attendance.
 Before doing anything, ask me the 3 most important questions you need to understand the idea
 and the goal. Challenge anything that looks weak.
