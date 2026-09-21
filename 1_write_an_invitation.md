@@ -49,13 +49,11 @@ everything already in the chat (the notes, the draft, your wishes).
 Pick one:
 
 ```
-Shorter, and put the registration deadline in the first sentence.
-```
-```
 Give me two alternative subject lines.
-```
-```
+
+Shorter, and put the registration deadline in the first sentence.
 Rewrite it for someone who has never been to one of our events.
+Also go to CFA Switzerland Web site, check events section and use the same style in the invitation.
 ```
 
 **Notice:** did it keep all the facts while changing what you asked?
