@@ -11,7 +11,11 @@ typical guesses. With the right facts and limits, it becomes a fast, reliable fi
 knows the practice material, so this step must happen in a **new chat**.
 
 **▶ Open in a new chat:** https://chatgpt.com/?q=Write%20an%20invitation%20for%20our%20autumn%20member%20event.
-(or open a new chat and type: `Write an invitation for our autumn member event.`)
+(or open a new chat and type: 
+
+```
+Write an invitation for our autumn member event.
+```
 
 **Notice:** did it invent a date, a place, a speaker? Or did it ask you for details?
 
